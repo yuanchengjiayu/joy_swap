@@ -1,3 +1,4 @@
+https://dacade.org/communities/sui/challenges/19885730-fb83-477a-b95b-4ab265b61438
 # `joy_swap` Module
 
 The `joy_swap` module provides a decentralized finance (DeFi) application where users can create liquidity pools, add liquidity, remove liquidity, and swap tokens. This module supports operations involving two different types of tokens, `Coin_A` and `Coin_B`, in a liquidity pool.
